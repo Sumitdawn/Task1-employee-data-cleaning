@@ -1,0 +1,1011 @@
+Employee ID,Name,Age,Gender,Department,Salary,Joining Date,Country
+7311,Alexis Moreno,,Other,Admin,,,
+7890,John Johnson,,Male,Admin,74212.68,2016-08-17,United States
+1663,Kristen Villa,,Other,HR,,,United States
+5242,James Wilson,,Male,Marketing,,,India
+9376,Anthony Nelson,,Other,,65445.52,2018-06-08,U.S.
+8961,Dawn Becker DDS,57.0,F,,57604.59,2021-01-14,
+7634,Whitney Gill,52.0,M,Engineering,75351.71,,India
+5969,Kelli Hughes,38.0,Male,Engineering,,2024-02-29,UK
+8808,Danielle Wilson,,Other,Marketing,47510.78,2023-03-26,IND
+6866,Dr. Terri Sanchez,54.0,F,Finance,74067.17,2018-04-18,USA
+4578,Kim Hutchinson,39.0,female,Admin,81630.24,,U.S.
+9268,Sean Hernandez,,Male,Sales,,2022-03-23,USA
+3281,Samantha Richards,50.0,Other,Admin,,,UK
+5617,Christopher Cooper,,,Admin,,,
+3289,Edward Simpson,40.0,F,Admin,,,IND
+2553,Jeffrey Jackson,,F,Sales,112155.28,,IND
+5104,Laura Ramos,,,Sales,59685.1,,UK
+9725,Adam Griffith,23.0,,HR,86182.04,,U.S.
+3407,Mary Bates,,F,Engineering,,2023-10-02,USA
+6081,Logan Jones,60.0,M,Sales,,,IND
+2618,Diana Greer,,F,HR,46244.38,2024-03-25,U.S.
+2208,Amy Fowler,41.0,Other,Marketing,,,USA
+6409,Teresa Chen,40.0,,Admin,66446.18,,
+8735,Janice Hamilton,32.0,,Admin,,,
+2649,Adam Osborne,35.0,M,Engineering,,2016-01-28,United States
+6796,Diana Scott,,female,Finance,,2023-12-12,United Kingdom
+8113,Emily Peterson,25.0,F,Engineering,43088.28,,
+6180,Jessica Thomas,,female,,98576.5,,United States
+4350,Jorge Mueller,,,Finance,54087.26,,USA
+8815,Rachael Cruz,,female,Sales,,,
+8253,Andrew Gaines,,Other,Marketing,,2015-11-08,United Kingdom
+9541,Rebecca Wolf,54.0,F,Engineering,60923.22,2020-06-20,India
+5267,Heidi Jarvis,,F,Finance,71504.97,2022-12-07,IND
+2020,Cory Gomez,48.0,M,Engineering,93440.41,2019-06-12,U.S.
+9989,Alicia Moss,,female,Finance,74749.86,2015-09-14,
+1230,Dana Lopez,40.0,F,Sales,,,
+2528,Jennifer Berry,38.0,female,Marketing,95625.44,2022-03-04,United States
+7534,Miguel Shields,32.0,Other,Admin,,2017-11-07,UK
+1018,Rita Garcia,,,Engineering,,,United Kingdom
+9086,Jeremiah Brown,50.0,Male,HR,89619.17,,IND
+6458,James Nelson,25.0,Male,Engineering,,,
+4996,Peter Kelly,29.0,,Engineering,,2018-12-25,
+6328,Eric Vasquez,,female,Sales,59995.2,,
+2031,Christina Sanders,,female,,,2022-03-24,UK
+4130,Mark Nunez,53.0,,Finance,87547.48,2025-03-12,IND
+4632,Samantha Aguilar,,female,Sales,106310.24,,United States
+4909,Keith Elliott,,Male,Engineering,72771.78,2021-09-25,United States
+3334,Rodney Sanders,,Male,,,,United States
+9896,Brandy Miller,42.0,Other,HR,110683.6,,United States
+8339,Heather Jones,40.0,Male,Marketing,34588.87,2016-02-11,India
+2494,Megan Ruiz,,female,,,2022-05-01,United Kingdom
+2318,Ryan Best,32.0,Male,Sales,89686.25,2022-10-17,
+6243,James Martinez,,F,Finance,35193.48,,United States
+9322,Madison Russell MD,27.0,,HR,43607.43,,
+9016,Sean Dixon,43.0,female,Admin,105143.82,,USA
+2786,Steven Lozano,,F,Marketing,55318.06,2020-07-10,U.S.
+5938,Michelle Cummings,23.0,Other,Admin,,,U.S.
+5769,Kelly Colon,29.0,Other,HR,,,United Kingdom
+3044,Melissa Hughes,22.0,female,HR,,2022-05-06,UK
+9969,Robert Hess,21.0,M,Sales,,,U.S.
+6451,Christopher Baker,60.0,Male,Engineering,,,UK
+9852,Erin Erickson,58.0,M,Finance,53480.4,,U.S.
+4329,Kelly Bryant,45.0,Other,HR,112448.61,2018-09-12,India
+9965,Nicole Cole,43.0,Other,HR,,2024-01-14,
+5712,Mark Thompson,22.0,M,,,,United Kingdom
+8290,Stephanie Stewart,32.0,Male,Admin,108216.03,,U.S.
+2501,Cheryl Gibbs,,Male,Admin,,,United States
+7306,Robin Boyd,33.0,Other,,,2019-01-13,UK
+6194,Susan Taylor,,M,Finance,71279.37,,U.S.
+4966,Amy Miller,59.0,female,HR,42602.37,2020-07-25,
+5756,April Hampton,36.0,F,Sales,74954.86,2022-10-28,United States
+4012,Lawrence Hudson,34.0,female,,,,U.S.
+4102,James Cox,,F,Marketing,,2020-11-05,UK
+4059,Mallory Taylor,47.0,,Admin,97645.51,,USA
+1540,Catherine Martinez,,M,Finance,59012.44,,United States
+5260,Lawrence Williams,22.0,,Marketing,,2018-02-25,IND
+8807,Melissa Robles,45.0,,Admin,,2019-02-24,IND
+2131,Lindsay Bauer,,female,Finance,,2020-10-25,IND
+2471,Thomas Mcintosh,50.0,Male,,,2017-10-22,U.S.
+3133,Jeremiah Munoz,33.0,Male,Sales,99631.8,2018-05-18,India
+3450,Dawn Collins,30.0,Male,Engineering,86068.09,,United Kingdom
+1633,Jody White,,,Engineering,54442.94,2019-02-23,
+2314,Dennis Avery,,female,Admin,58060.44,2025-05-27,USA
+9857,Brent Johnson,31.0,Male,HR,,,IND
+7410,Jared Vaughn,,,Admin,,,United Kingdom
+9594,Erica Gibbs,,female,,,,United States
+5515,Melissa Alvarez,,female,Finance,,,IND
+9549,Kimberly Morales,36.0,Other,Admin,,2019-11-19,UK
+4858,Tammy Johnson,55.0,,,119261.24,2025-05-14,United Kingdom
+4525,Sara Miller,49.0,female,Finance,76767.01,,IND
+7871,Brett Donaldson,41.0,Male,Engineering,,,IND
+5509,Jose Ballard,,,Sales,102551.6,2018-10-01,United States
+8382,April Morgan,28.0,F,Admin,37564.28,,
+9071,Melissa Martin,,,Admin,106713.32,,India
+6855,Caitlin Frazier,,Other,Engineering,,2025-05-02,IND
+2349,Taylor Murphy,42.0,F,HR,90074.14,,
+6313,Tyler Garrett,,female,Engineering,90770.34,,USA
+2889,Darrell Reid,46.0,Other,Engineering,,2022-08-17,India
+8969,Vincent Bell,20.0,Male,Admin,,,USA
+6493,Jason Cox,41.0,M,Finance,110638.23,2021-04-11,United States
+4119,Jasmine Townsend,35.0,M,Admin,65292.31,,USA
+4981,Kevin Mcdaniel,,female,,83670.34,2024-07-06,UK
+1265,Carolyn Hernandez,,Other,,,2020-01-09,United Kingdom
+5440,Frank Smith,,F,Engineering,,,U.S.
+2919,Timothy Berry,,female,,43811.97,2025-01-09,IND
+4612,Christian Buchanan,22.0,female,Admin,35706.93,,USA
+7095,Jennifer Bradley,48.0,Other,Engineering,,,United States
+3793,Michelle Nielsen,36.0,M,,,2016-02-04,United States
+6448,Daniel Morales,,M,,,,IND
+7981,Keith Bell,55.0,,,,,
+2018,Steven Sanchez,,Male,,,2023-10-27,IND
+2648,Thomas Allen,,M,Finance,,,U.S.
+3397,Dr. Benjamin King,49.0,female,Finance,,,United Kingdom
+4584,Joseph Daniels,46.0,F,Engineering,,,IND
+1741,Penny Mcdowell,55.0,Other,HR,,2017-08-14,UK
+9752,Levi Dillon,28.0,Male,HR,113578.97,,IND
+2212,Mark Ferguson,,F,Marketing,,,United Kingdom
+1437,Brianna Long,40.0,,HR,,,United Kingdom
+3038,Monica Bray,33.0,M,Marketing,68571.35,,IND
+4088,Brian Murray,20.0,M,Finance,112745.94,,
+2961,Christopher Wells,32.0,Male,Sales,72959.09,,United Kingdom
+7409,Thomas Hancock,58.0,F,Finance,86207.98,2018-02-22,India
+2499,Ashley Richardson,,Male,,,2016-04-10,U.S.
+7064,Hunter Kennedy,31.0,female,Marketing,75234.8,,
+2901,Amy Wiley,,Male,Finance,82852.63,2017-09-25,IND
+1596,Nathaniel Nguyen,60.0,F,Sales,89522.81,2022-03-01,U.S.
+1354,Andrew Arnold,,F,HR,73313.61,2021-10-19,United States
+4188,Jason Brooks,48.0,M,Admin,69062.06,,U.S.
+4030,Chad Rodriguez,36.0,Male,HR,40460.52,2021-12-05,U.S.
+3029,Andre Ray,,female,Engineering,76429.49,2021-04-14,IND
+8851,Martin Mann,27.0,Other,,101057.33,2024-05-16,IND
+4450,Jeffery Barber,37.0,M,Sales,109475.0,2022-05-18,IND
+2000,Christian Martin,22.0,Male,HR,43242.93,2024-10-04,United States
+1373,Chad Snyder,,Other,Marketing,,2017-06-24,UK
+9916,Lisa Roberts,,F,Marketing,,2017-05-17,United States
+7973,Melinda Lang,43.0,M,Marketing,,,USA
+2662,Sara Ayala,,female,Admin,81611.46,2018-11-15,India
+5258,Christopher Burton,,female,Sales,,2019-03-08,United States
+2146,Kim Thomas,43.0,M,Sales,84274.24,2021-01-29,UK
+4618,Patrick Peters,,M,HR,42630.74,,USA
+2179,Thomas Gray,,M,Marketing,97415.54,2022-06-08,IND
+5932,John Torres,20.0,,Admin,114639.85,2018-01-16,
+6739,Jared Davis,,Male,Engineering,,,United Kingdom
+8144,Brittany Silva,,F,Engineering,,,United States
+3954,Veronica Keith,43.0,,,,2016-02-23,U.S.
+9251,Richard Wolfe,41.0,Other,HR,79161.54,,IND
+8653,Lindsey Palmer,,female,Finance,65667.75,2019-02-15,India
+1645,Nicholas Jackson,30.0,F,Admin,,2022-08-05,India
+2653,Andrew Wilson,,F,Engineering,,2025-04-15,UK
+4266,Nathan Flores,,F,Engineering,113356.4,2017-07-23,U.S.
+5262,Jackie Horton,55.0,F,,,2022-08-04,USA
+6874,Robin Perez,38.0,female,Finance,,2019-02-11,USA
+8704,Juan Kline,50.0,F,Engineering,52051.04,2021-05-06,USA
+3775,Katie Blackwell,,F,Sales,61038.22,2017-02-16,India
+4332,Mason Jackson,31.0,Other,Marketing,,2017-05-05,United States
+1951,Jennifer Guerrero MD,,female,,114944.39,2017-12-04,USA
+3592,Deborah Matthews,,Other,HR,101266.33,,
+3653,Carolyn Alexander,46.0,Male,,,,United States
+6608,James Lang,,F,Marketing,,2018-07-02,IND
+9674,Jennifer Hall,,F,Sales,106015.71,,India
+5107,Amanda Harvey,41.0,,Finance,,,UK
+2920,Jordan Pierce,50.0,M,Finance,72139.62,2022-12-29,United Kingdom
+8246,Derek Hall,,,Finance,66402.9,,U.S.
+3864,Eric Lynch,,F,Engineering,,,India
+1216,Joyce Rivers,41.0,F,Admin,102996.27,2015-10-13,U.S.
+8727,Keith Ortiz,,Other,Marketing,,,
+7715,John Olsen,60.0,F,Admin,59660.32,2020-05-12,United Kingdom
+9332,Ian Davis,24.0,Other,Finance,,,India
+6102,Amy Wade,32.0,,Admin,,2019-04-02,USA
+6851,Christina Johnson,,F,Finance,,2024-04-04,United Kingdom
+7367,Michael Guzman,20.0,,Sales,,2017-04-27,
+5111,Ashley Kennedy,,F,Engineering,106624.26,,U.S.
+3513,Richard Brennan,,Other,Marketing,,,United Kingdom
+1203,Dana Jimenez,57.0,female,HR,108287.64,,United States
+8503,Mrs. Alexa Kelly,47.0,,Sales,,2024-04-02,U.S.
+2295,Tammy Davis,43.0,,Admin,,2019-07-24,U.S.
+6503,Jay Stevenson,36.0,Male,Admin,118467.7,2024-01-28,UK
+1748,Shannon Thomas,47.0,,Marketing,103210.73,,U.S.
+9918,Curtis Parsons,42.0,M,Engineering,51807.26,2019-03-13,United Kingdom
+5601,Rachael Campbell,24.0,F,,73053.1,2025-03-21,UK
+3209,Sandra Wilson,,Male,Admin,,,United Kingdom
+4934,Sean Perez,32.0,M,Marketing,,2025-03-22,United Kingdom
+8894,Lynn Howard,,F,,,2017-06-06,IND
+6770,William Saunders,36.0,M,Marketing,111773.99,2020-02-08,India
+5716,Diane Garcia,22.0,Other,HR,,,United Kingdom
+6885,Barbara Moore,59.0,M,Marketing,69014.12,2017-04-25,United Kingdom
+3168,Natalie Spears,26.0,F,Engineering,,2016-03-23,United Kingdom
+6083,Darryl Becker,,M,Sales,,2017-04-15,India
+7357,Julie Murray,43.0,Other,HR,,,
+7789,Yvonne Poole,,Other,Sales,,,United States
+2322,James Collins,,M,Admin,56427.16,,USA
+1024,Joseph Smith,,Male,Sales,,,
+4150,James Dodson,,F,HR,47973.36,2017-04-02,USA
+6478,Jessica Williams,,Male,Admin,,,UK
+3622,Jennifer Baker,51.0,Other,,,2020-09-28,UK
+4922,Cassandra White,54.0,Male,,93965.86,,UK
+4655,Alyssa Benton,,Male,Marketing,107857.51,,
+8342,Joseph Anderson,,Male,Finance,90034.88,,IND
+7203,Lisa Gaines,22.0,,Finance,,,United States
+1516,John Abbott,36.0,F,,67054.5,2023-10-04,USA
+7590,Lisa Perry,,,Sales,90893.87,2018-02-15,United States
+7852,Tammy Perez,50.0,M,Sales,78212.32,2021-02-10,IND
+1766,John Smith,25.0,M,Finance,,,U.S.
+3714,William Williams,24.0,,,118666.43,,IND
+8296,Alyssa Reed,28.0,female,Finance,99546.32,2019-08-21,India
+2046,George Gibson,39.0,M,Admin,98933.6,,United States
+5247,Jose King,,female,Finance,,2016-04-06,United States
+3583,Brian Johnson,30.0,,Engineering,99854.14,,India
+8313,Raymond Taylor,,M,Engineering,,2016-07-05,USA
+9643,William Flores,,female,,36594.0,2023-07-19,IND
+8983,Jonathan Hansen,53.0,,HR,83480.28,2023-09-12,United Kingdom
+1001,Karen Hicks,56.0,Male,Marketing,74331.45,,IND
+1637,Christopher Kelley,53.0,F,HR,76888.49,,United States
+9103,David Miller,47.0,Other,,43530.92,2019-08-04,USA
+6340,Samantha Boyer,,F,Sales,,,USA
+6112,Gregory Rowe,,,Admin,89001.24,,U.S.
+8649,Jeremy Barron,58.0,F,Marketing,82269.37,2019-04-16,India
+1816,Tina Rowe,21.0,Male,Engineering,,2017-03-30,United States
+7801,David Woods,,Male,Sales,,2021-03-30,United Kingdom
+4080,Jeremy Ward,,Other,Sales,,,U.S.
+9987,Dr. Charles Decker,41.0,Male,Marketing,,2020-08-12,UK
+2367,Chelsea Cantu,,,Finance,,2017-04-28,United States
+3138,Barbara Brown,,M,Sales,33451.81,2023-03-26,India
+1241,George Howell,,F,Engineering,,2023-04-04,India
+7583,Steven Myers,23.0,M,Finance,30762.71,2019-01-09,
+7840,Jon Jackson,28.0,,Sales,,,United States
+1055,Travis Barton,,,Marketing,56451.1,2020-01-17,India
+4498,Peter Gallegos,23.0,F,,,,
+1234,Garrett Stone,,Other,Engineering,78413.39,,U.S.
+1038,Sarah Aguilar,,,Admin,90195.55,2023-04-17,
+9656,Michael Snyder,58.0,Other,HR,,2018-04-22,UK
+2602,Tanya George,,female,Engineering,83797.64,,India
+4120,John Munoz,46.0,Male,Marketing,88581.72,,U.S.
+2948,Nicholas Smith,,Other,Marketing,32683.15,,United States
+4252,David Sawyer,,F,Admin,,2021-07-22,IND
+5954,Mary Rodriguez,23.0,female,Admin,,2022-11-26,
+5587,Kelli Middleton,50.0,,,,2020-01-18,USA
+3985,Donna Vega,21.0,female,,86707.91,2022-03-27,United Kingdom
+2641,Corey Watson PhD,58.0,female,HR,,,India
+8792,Jeanette Branch,,female,Admin,83626.73,2017-10-25,United Kingdom
+7499,William Jones,,Other,HR,67367.93,2024-10-20,
+2332,Brian Moore,,,Sales,105366.73,,U.S.
+1357,Tiffany Zimmerman,51.0,,Marketing,60446.45,,United Kingdom
+5500,Jacob Williams,,female,Marketing,81111.68,,USA
+8421,Brandon Gutierrez,,F,Finance,33211.18,2021-06-18,USA
+2896,Rachel Fernandez,,Male,Admin,,2025-03-19,India
+5202,Tonya Barnett,,M,Engineering,,2020-04-17,UK
+3185,Susan Parker,38.0,,Marketing,101487.01,2015-09-18,USA
+9533,Andrea Jacobs,53.0,F,Sales,,2020-10-14,U.S.
+6686,Nicole Harris,,Other,,,,United States
+2885,Heather Miller,,M,Engineering,101792.8,,United States
+3530,Robert Austin,,female,Admin,,2022-04-26,India
+5561,Leah Mullen,42.0,M,HR,,2019-05-31,U.S.
+1304,John Rodriguez,22.0,female,Engineering,,2020-07-05,United Kingdom
+1693,Shawn Pollard,,M,Marketing,98555.36,,UK
+1666,Paul Pennington,21.0,F,,,,India
+4370,Kevin Walls,34.0,M,Admin,,2016-01-02,United States
+5254,Ethan Silva,,female,Sales,112707.25,2021-09-19,United Kingdom
+6156,Dr. Joseph Graham,,,Sales,,2016-03-08,India
+7011,Shane Wilson,27.0,female,Engineering,73761.19,2022-11-04,U.S.
+1688,Taylor Anderson,,female,Admin,78626.19,2016-01-08,India
+9101,Andre Thornton,25.0,,,,2025-04-28,
+8514,Mark Baker,46.0,Other,Marketing,32535.64,2024-12-01,United Kingdom
+8134,Eddie Jensen,,M,Sales,41808.3,,IND
+7102,Natasha Weaver,29.0,M,,,2016-05-29,UK
+9813,Jose Smith,,Other,Sales,,,U.S.
+3921,Sabrina Walsh,46.0,M,Sales,42394.22,,IND
+4405,Chad Forbes,,,Marketing,,2020-09-14,IND
+7153,Justin Moses,36.0,Other,Finance,100156.03,,United Kingdom
+5768,Darlene Garcia,42.0,female,HR,,,UK
+1145,Zachary Anderson,,,HR,47387.97,2016-01-14,India
+3268,Ryan Walker,,Other,Finance,,2025-01-16,India
+3474,Russell Robinson,42.0,F,,,,India
+5446,Matthew Hall,20.0,F,Sales,,2017-05-24,United Kingdom
+6462,Michael Gonzales,43.0,M,Engineering,,2022-09-30,U.S.
+6529,Nathan Kline,58.0,F,HR,,,United Kingdom
+7016,Kimberly Gonzalez,33.0,female,HR,50934.06,,IND
+2535,Erik Anderson,33.0,Other,,,2021-05-10,India
+6541,Paula Smith,,F,Finance,,2016-05-06,U.S.
+1584,Erin Brennan,43.0,Other,,,,USA
+1675,Erica Miller,58.0,F,Admin,111330.51,2021-07-11,UK
+5417,Robert Jackson,29.0,Other,Sales,108956.76,,UK
+3684,Dakota Spencer,49.0,Other,Admin,78118.76,2015-10-29,USA
+3448,Ann Shaw,,Other,Sales,52854.6,,IND
+5743,Barbara Watkins,36.0,Other,Engineering,76006.57,,India
+6913,Fred Phillips,21.0,,Sales,110893.46,2025-05-02,
+7468,Megan Mitchell,,M,Admin,,,U.S.
+9986,Adam Singleton,,female,Admin,,2016-03-04,USA
+3124,William Edwards,,female,HR,46152.12,,U.S.
+5807,Martha Mitchell,31.0,M,Sales,,2025-06-21,India
+2882,Danielle Beasley,,female,HR,,2022-08-06,UK
+8832,Debbie Brown,,M,Admin,52238.68,,
+4927,Douglas Perez,29.0,,,36991.83,,United Kingdom
+1790,Susan Patel,,Other,Marketing,,2017-06-06,India
+6044,Michelle Henderson,52.0,Male,Finance,113784.12,,U.S.
+3942,Anthony Mccarthy,35.0,,Engineering,101245.92,,U.S.
+9569,Andre Miller,,F,Marketing,,2018-03-27,
+2161,Clayton Anderson,46.0,female,Marketing,75598.02,2025-01-09,U.S.
+5958,Steven Cox,28.0,M,Finance,,2019-08-28,USA
+7605,Joseph Porter,45.0,,HR,,,USA
+6382,Jeffrey Terry,24.0,Male,Finance,,2023-10-22,United Kingdom
+5902,Carly Eaton,,Male,Admin,,2020-01-05,U.S.
+7794,Christina Hernandez,,F,Admin,34106.18,,USA
+2780,Rachel Lopez,,Other,Marketing,71722.77,,India
+2628,Ms. Catherine Lin,,Male,HR,36132.79,,United Kingdom
+8883,Tammy Thornton,25.0,female,Engineering,108200.62,,India
+8766,Peter Anderson,,Male,HR,56268.96,2024-08-09,
+6522,Melanie Mcgee,60.0,F,HR,,,USA
+6630,Patricia Lindsey,,F,Marketing,118238.08,,United Kingdom
+3036,Michelle Smith,,Other,,,2019-06-23,United States
+8849,Taylor Gonzalez,,F,Marketing,,2017-10-20,IND
+2900,James Hughes,,,Sales,77139.14,2022-04-16,
+9154,Joseph Garcia,,female,,109842.04,,USA
+7988,Kim Nolan,25.0,Other,Engineering,44674.93,2016-09-19,UK
+1619,Alexandra Burgess,,female,Engineering,115478.98,2019-10-12,
+5946,James Craig,27.0,Male,Marketing,,2019-06-22,USA
+6489,Dr. Mary Scott,,,Admin,,2017-08-08,
+3550,Philip Willis,,,Finance,99966.3,,U.S.
+3728,Shannon Gill,47.0,Male,Sales,117451.5,,U.S.
+2424,Robert Steele,,Male,Marketing,98473.12,2023-12-10,UK
+2078,Michael Prince,41.0,Other,Finance,60127.18,2022-09-28,
+2387,Linda Beard,,F,Engineering,76204.15,2019-12-13,UK
+4244,Kyle Bell,60.0,female,Sales,39197.19,2018-11-08,USA
+4621,Ronald Evans,50.0,F,Sales,,2024-12-07,United States
+2001,Dawn Johnson,38.0,M,HR,,,India
+7304,Taylor Foley,,M,HR,55781.34,,USA
+1128,Gina Turner,20.0,,HR,,,United States
+2606,Robert Pace,39.0,female,HR,,2018-03-25,United Kingdom
+7452,Evelyn Castaneda,,female,Marketing,,,IND
+9503,Jennifer Morales,54.0,Male,Admin,53431.92,,India
+5748,Elizabeth Briggs,,Other,Engineering,,,United States
+8348,Cynthia Reynolds,,M,Marketing,101907.64,2016-05-29,UK
+9005,Christopher Taylor,,Male,Finance,,2020-10-21,India
+4559,Nicole Schmidt,37.0,,HR,,,UK
+7931,Sara Holland,,Male,Finance,,,
+2370,Deanna Turner,22.0,F,,52880.37,,United Kingdom
+7034,Kelsey Clarke,,Male,Marketing,,2023-05-08,India
+4606,David Vazquez,,Other,HR,,,India
+5274,Kyle Foley,48.0,Other,HR,,2021-03-28,United Kingdom
+3729,Terri Petersen,,female,Finance,,,United States
+8065,Steven Montgomery,38.0,female,Finance,,2019-07-11,
+4144,Mary Lynch,58.0,,Marketing,,2016-09-05,
+6873,Michael Douglas,22.0,F,Admin,66044.94,,USA
+2884,Thomas Jackson,,M,HR,79058.44,2024-09-07,
+1452,Tonya Young,,F,Engineering,,,India
+9614,Nancy Garrison,27.0,female,,42903.79,2019-08-17,USA
+8399,Jeffrey Wilson,30.0,F,HR,,2021-05-16,India
+4304,Christopher Wheeler,,F,Admin,,,India
+9144,Oscar Harrell,38.0,M,Engineering,51818.1,,IND
+7520,Francisco Flynn,56.0,,Sales,,2024-04-14,U.S.
+4395,Chris Vargas MD,54.0,F,Engineering,,2022-12-23,United States
+1689,Susan Perez,,Other,Engineering,,2020-03-22,
+4537,Jeffrey Munoz,,Other,Sales,,2020-07-22,United Kingdom
+2714,Mariah Taylor,,Other,Marketing,,,United Kingdom
+4243,Eric Schultz,56.0,M,,30977.94,2021-01-26,U.S.
+8510,Samantha Lopez,30.0,Other,Admin,45003.24,2021-01-12,USA
+7193,Wesley Stewart,,,Engineering,38264.75,,USA
+6925,Nicole Tucker,,F,Sales,90103.18,,United States
+9952,Dr. Derrick Brewer,,Male,Admin,,,United States
+3479,Paul Villanueva,,Male,,,2020-09-05,
+2716,Kristin Sullivan,46.0,M,Finance,,,United States
+8993,Michael Lawson,,Other,HR,,2017-04-26,United States
+3431,Cameron Sandoval,,Male,Finance,118865.1,,India
+7650,Rachel Silva,51.0,,Sales,51939.99,,United Kingdom
+7934,Cody Stuart,,,HR,116670.2,2024-09-02,UK
+9539,Nicholas Cohen,,,HR,42638.73,,IND
+9116,Donald Rodriguez,23.0,F,HR,84042.43,,USA
+6283,Roger Pham,,Other,Marketing,,,
+9166,Lawrence Beltran,,Male,HR,,2022-09-15,UK
+9169,Stacy Russell,20.0,M,Admin,,,United States
+4309,Karen Johnson,,female,,93294.84,,UK
+9893,Brenda Warner,,female,Sales,,,IND
+1159,Nicole Perez,22.0,,Engineering,,,USA
+6574,Thomas Orr,59.0,,Marketing,83534.37,,IND
+6214,Richard Anderson,,Other,Admin,71222.51,,USA
+6272,Elizabeth Sullivan,34.0,F,Sales,,2016-09-18,USA
+1581,Sandra Payne,,,Engineering,,2025-07-18,United Kingdom
+9603,Jill Daniels,32.0,Male,Sales,,,UK
+3430,Stephanie Newman,,female,Admin,,2023-01-28,USA
+5208,Caroline Davis,,F,Finance,,2017-03-27,
+3554,Derek Lewis,,female,Finance,70699.18,2018-06-04,UK
+7209,Sharon Atkins,,,Finance,,,U.S.
+5823,Paula Walter,,,,59042.25,,India
+8707,Brittany Thomas,,female,Marketing,,,U.S.
+2087,Brandy Carney,28.0,M,Engineering,96879.0,,U.S.
+2386,Abigail Hoover,,M,Sales,,,IND
+9462,Erin Potter,,Other,Admin,104945.48,2022-03-24,
+4687,Daniel Hayes,,female,,80151.28,,
+1665,Julie Fox,44.0,female,HR,114323.3,,U.S.
+5922,Jeffrey Frank,,,Finance,,2016-01-05,India
+1250,Kristen Stone,33.0,Male,Sales,39915.3,2018-05-11,IND
+8349,Briana Ross,44.0,M,Finance,74967.8,,U.S.
+6416,Emily Suarez,34.0,F,Engineering,,,United States
+3632,Andrew Newman,,Male,Marketing,,2022-10-30,India
+3438,Barry Adams,23.0,Other,Marketing,,2021-04-04,U.S.
+8548,Todd Booth,,female,Finance,,2022-11-08,United States
+7083,Kevin Flores,59.0,Other,Marketing,57612.91,2022-01-19,IND
+9273,Lisa Hunt,,,Sales,,2016-04-12,
+7262,Jonathan Hardy,,M,Admin,39605.89,,
+9680,Holly Sparks,49.0,Other,,,,UK
+9231,Kenneth Alvarez,,M,,,2025-04-30,USA
+1550,Randall Sanchez,,M,Admin,55051.55,2015-10-31,U.S.
+2485,Jordan Villegas,,,Sales,,,India
+9486,Amanda Diaz,50.0,F,Admin,,,UK
+2251,John Avila,,Other,Admin,38458.71,,India
+7985,Jennifer Shepherd,22.0,M,Marketing,,,USA
+4376,Martha Woods,23.0,F,Marketing,,2019-08-13,USA
+5745,Hailey Lang,42.0,,Marketing,,,IND
+9772,Molly Weeks,38.0,,,90326.55,,U.S.
+7845,Karen Barrett,28.0,Male,Engineering,,,USA
+8900,Sandra Dominguez,47.0,Other,Engineering,,,
+7366,Lauren Lewis,,Male,Engineering,,2024-03-10,IND
+4826,Jesse Dean,55.0,F,Sales,,2020-07-21,UK
+1335,Megan Carr,49.0,,Marketing,,2023-11-12,United States
+1003,Garrett Jordan,41.0,M,Admin,,,United Kingdom
+3981,Sharon Thomas,58.0,female,HR,104795.17,2016-11-10,IND
+5955,David James,,,Marketing,,2020-03-03,UK
+9304,David Allen,,,Sales,,2018-02-02,United Kingdom
+5169,Tanya Watson,,Male,Finance,30164.49,2018-11-18,UK
+6450,Kyle Hanson,21.0,,,51957.0,,United Kingdom
+2075,David Anthony,,M,Admin,40216.45,2017-11-16,UK
+9085,Christopher Bush,25.0,female,Marketing,,,UK
+5292,Stephanie Griffin,,female,Admin,88191.56,,India
+5961,Christopher Howard,32.0,Male,Engineering,59198.39,,IND
+7685,Robert Fernandez,,,HR,,,
+7294,Elizabeth Hill,,female,HR,49098.19,2020-09-19,India
+7286,Ryan Stewart,,Other,Sales,,,USA
+3683,Corey Gonzalez,42.0,Other,Admin,,,USA
+3086,Sarah Ellis,,Male,Finance,39422.45,2022-01-26,IND
+4914,Dwayne Tucker,55.0,Male,,,,UK
+5703,Sarah Newton,,Male,Engineering,,2018-06-12,U.S.
+6472,Melissa Brown,,Other,Engineering,,2016-03-30,
+1909,Stephanie Cook,,Male,,,2018-06-07,IND
+1588,Derek Cortez,,F,Sales,53894.4,,United Kingdom
+8886,Joshua Perry,48.0,Male,Admin,34255.36,,India
+7846,Jaime Shah,25.0,M,Finance,69798.64,,USA
+3308,Bobby Beltran,35.0,M,Marketing,,2021-08-13,U.S.
+9058,Katie Smith,,M,Finance,58682.38,,IND
+2337,Kayla Sosa,,Male,Engineering,94398.57,,U.S.
+3480,Wendy Santana,59.0,female,HR,80527.66,2016-01-13,United Kingdom
+6779,Andrew Davis,,,Sales,,,IND
+7736,Emily Cabrera,22.0,F,Sales,43472.35,2024-04-01,IND
+1576,Michelle Barton,,Male,Sales,,2019-07-16,USA
+8639,Tammy Carr,34.0,,,,,UK
+7335,Sierra Ramirez,,M,Sales,53621.09,,United States
+8518,Clinton Bean,,,Marketing,,2016-08-05,UK
+1770,Shawn Scott,,Other,HR,,2022-12-14,UK
+8715,Brianna Jensen,59.0,,Engineering,86362.65,,UK
+1331,Chad Bridges,,F,Finance,65195.82,2023-11-24,India
+1531,Tristan Gonzalez,,Male,Engineering,107245.35,,India
+3174,Heather Barrett,,F,HR,,,IND
+6306,Nicole Figueroa,37.0,M,Sales,110508.42,2017-06-17,USA
+2725,Nathan Williamson,21.0,Male,Engineering,31743.26,,U.S.
+9997,Diana George,59.0,Male,Admin,115162.69,2024-05-12,UK
+6679,Steven Holloway,,Other,HR,37069.23,2017-03-14,India
+4194,Megan Barnes,35.0,M,Admin,,2024-06-30,IND
+7281,Joshua Gordon,38.0,F,Finance,,2019-04-17,UK
+9033,Mckenzie Bryant,,Other,Admin,55939.18,,India
+2818,Jessica Shepard,23.0,,Admin,51352.2,2022-05-23,United Kingdom
+1985,Denise Zimmerman,,,Finance,,,UK
+8654,John Gomez,,female,Sales,,,United Kingdom
+6535,Diane Mitchell,,M,Finance,,2019-07-08,UK
+5855,Christopher Wilson,34.0,M,Marketing,,,UK
+3082,Marissa Black,,Other,Engineering,101983.36,2021-01-03,United Kingdom
+7351,Seth Herman,40.0,Male,HR,105250.63,2020-05-02,United Kingdom
+5813,Dennis Gross,,,Sales,84025.95,,IND
+2991,Rick Stevenson,38.0,M,HR,58683.09,,India
+4098,William Bennett,28.0,Other,Finance,,,United States
+1625,Roy Price,,F,Sales,,,IND
+7422,Kirsten Barton,43.0,Other,Admin,,,United States
+8283,Laura Douglas,,F,Admin,67673.28,2015-12-24,UK
+7087,Jeremy Juarez,29.0,,Marketing,,2023-09-21,
+8462,Christine Harris DVM,52.0,F,Admin,107008.08,2021-08-14,U.S.
+6841,James Hunter,28.0,Other,HR,60253.95,2019-11-05,
+2234,Matthew Johnson,51.0,F,Engineering,,2022-12-27,United States
+1731,Brandon Gray,35.0,Male,Finance,,2018-07-16,IND
+1655,Ronald Lewis,,Other,Marketing,,2016-03-21,India
+8965,John Lee,42.0,M,,117012.96,,U.S.
+5184,Kayla Munoz,,female,,,2018-08-04,United States
+1436,Kelly Oliver,26.0,female,,,2018-04-27,IND
+9520,Sharon Durham,,female,,89299.75,,UK
+4538,Kaitlin Mccoy,,F,,,2018-12-20,USA
+4762,Heather Baird,39.0,M,Sales,,,UK
+2531,Michaela Johnson,34.0,,Sales,66824.87,,USA
+9580,Daniel Fleming,,Male,Admin,,2025-06-08,U.S.
+7883,Briana Chavez,,,Finance,56045.63,,UK
+9308,Donald Banks,,Male,Admin,68778.76,2016-07-08,
+6002,Oscar Giles,,Other,Marketing,,2019-07-03,United States
+2858,Elizabeth Lambert,,Male,HR,,2015-12-29,India
+3386,Samantha Wood,,Male,HR,,2025-04-29,United Kingdom
+7979,Anita Callahan,23.0,,HR,113648.44,2021-11-16,India
+7914,Shawn Vincent,,female,Marketing,57897.39,,IND
+2376,Mr. Ryan Wood,,F,Sales,,,USA
+7809,Ashley Morris,48.0,F,Admin,,,USA
+2030,Angela Mckee,,Other,Sales,,,UK
+2625,Christina Phillips,,F,Sales,50502.81,,IND
+7802,Marilyn Rojas,,Male,,,2021-03-21,UK
+3558,Charles Jones,56.0,female,Admin,,,USA
+1503,Brittney Lopez,60.0,Male,Admin,,2017-10-24,USA
+8319,Hannah Richards,42.0,,,75722.29,2016-09-21,United Kingdom
+8062,Jessica Figueroa,51.0,female,Admin,58104.36,,India
+7832,Christopher Alexander,21.0,F,,74205.98,,
+1493,Jessica White,22.0,female,Engineering,,2017-07-10,
+9136,Paul Berry,,Other,Marketing,,2017-03-31,IND
+6316,Maria Garcia,24.0,Male,Sales,86104.33,,U.S.
+5138,Joseph Johnson DDS,,Male,Sales,111927.99,,United Kingdom
+2286,Angelica Underwood,28.0,female,Finance,,,USA
+6775,Dawn Hart,,F,HR,,2022-08-24,India
+2152,David Martinez,,female,Admin,95026.11,,India
+2988,Tiffany Chan,39.0,M,Sales,,,United Kingdom
+6886,Jonathan Mahoney,,female,Admin,,,United States
+1481,Darrell Mann,44.0,,Marketing,,2021-07-30,United States
+6659,Shelby Lin,,M,Admin,85147.58,,IND
+6699,Sarah Cochran,,M,Sales,,,United States
+3914,Cassandra Garcia,22.0,Other,Engineering,,,UK
+1163,Marcus Ray,,Other,Sales,61047.43,,U.S.
+4776,Jason Williams,30.0,Male,Admin,,2024-06-06,United Kingdom
+6993,Ronald Hayes,52.0,Male,,53424.36,2016-08-30,United States
+2155,David Russell,59.0,female,Sales,,,United States
+3347,Victoria Delgado,,M,Sales,102709.39,2017-06-24,India
+4407,Brandon Le,35.0,M,Admin,,,United States
+1052,Joseph Chavez,35.0,M,,,2022-09-29,U.S.
+4355,Alexandra King,30.0,Other,,,,India
+3018,Kimberly Anderson,,M,Finance,,2016-11-06,India
+1117,Keith Ferguson,58.0,Other,Admin,,2017-04-14,UK
+5804,Curtis Davis,,M,Finance,,2023-05-05,United States
+7047,Debra Owen,29.0,Other,Marketing,44677.47,,India
+1403,Reginald Miller,,Male,Sales,57659.56,2022-01-31,IND
+4815,Alexander Church,44.0,F,Finance,61239.31,2018-09-24,India
+3324,Mark Wise,60.0,F,Marketing,35399.08,2022-07-15,India
+4063,Patricia Mcdonald,51.0,,Marketing,,,IND
+8439,Natasha Lee,,M,Sales,,,United States
+2841,Debra Franco,,Other,,,2021-06-11,India
+8810,Christina Beard,,female,Finance,,,
+6643,Jared Franklin,,F,Admin,,,India
+5230,Shane Benson,,Male,,,2020-05-25,United States
+3132,Dennis Mann,,F,Engineering,106554.83,,UK
+1457,Mary Graham,,F,Marketing,,,USA
+4409,Nathan Lee,,Male,HR,,,IND
+6934,Timothy Hayden,,M,Sales,110101.9,2023-02-18,U.S.
+6488,Hunter Le,,,Sales,,2024-11-17,India
+8755,Christopher Monroe,,Other,Sales,115463.29,2020-12-03,USA
+5794,Jeffrey Diaz,45.0,Male,Marketing,,,
+6357,Brandon Owen,,,HR,,,UK
+4015,Alan Lara,51.0,Male,Admin,109910.56,,India
+2323,Jasmine Castillo,,Other,Engineering,33629.91,,United Kingdom
+2680,Nathan Henderson,,female,Marketing,,2023-02-24,U.S.
+9736,Elizabeth Jackson,,Other,Engineering,,2024-03-19,UK
+6042,Caleb Barnett,,female,Sales,,,U.S.
+3562,Wayne Smith,,female,HR,78516.52,,
+7170,George Bradford,33.0,,Finance,39453.34,2025-01-04,United States
+3051,Stephen Duncan,,,Marketing,,2024-10-09,India
+4650,Christopher Cole,,M,Engineering,42988.16,,
+6175,Aaron Rivera,30.0,M,Engineering,,2018-12-08,UK
+9328,Joshua Mason,41.0,Other,,,,
+4978,Brandon Gardner,57.0,female,Sales,81309.83,,United Kingdom
+4877,Antonio Mccall,56.0,,HR,,,IND
+4013,Christopher Martin,,,,38147.07,2020-02-06,U.S.
+7877,Tanner Benson,,Other,HR,54599.39,,USA
+1757,Ronald Johnson,,M,Engineering,,,
+3166,Tyler Garcia,,Other,Finance,69171.68,2021-10-28,IND
+1336,Randy Clark,30.0,female,HR,,2020-06-05,USA
+2276,Crystal Brewer,29.0,F,Engineering,67679.32,2022-02-14,United States
+2199,Sara Lopez,48.0,Other,Admin,116504.46,2017-10-28,USA
+3163,Alejandra Fisher,41.0,Male,Engineering,,,UK
+7885,Cynthia Reed,,,HR,,,
+5905,Mark Hines,59.0,M,Admin,119765.65,2020-09-13,United Kingdom
+7828,Patrick Mckee,,female,Finance,74890.41,2019-02-10,
+3331,Reginald Lopez,37.0,female,Admin,80953.09,2023-03-19,United States
+7917,Joel Day,53.0,Other,Sales,53887.62,,India
+5882,Marco David,24.0,Male,Admin,100375.46,,USA
+6809,David Hendrix,57.0,F,Sales,59504.46,2016-04-22,UK
+2385,Joseph Santana,,Other,Engineering,85936.75,2022-11-15,United Kingdom
+5064,James Graves,,Male,Marketing,,2023-01-05,IND
+8287,Casey Vasquez,,M,Sales,101003.9,2024-12-14,UK
+7049,Rebecca Wiley,,Male,Sales,,,UK
+9670,Craig Harris,,female,Marketing,,,U.S.
+1947,Carlos Miller MD,,M,Finance,50248.65,2017-05-06,UK
+7167,Kristen Austin,41.0,Other,HR,42412.52,,U.S.
+7694,Jeffrey Stephens,47.0,F,Engineering,72090.52,,United States
+1138,Grace Melendez,20.0,Other,Sales,68188.4,,UK
+7835,Edward Duran,,Male,Engineering,49572.82,2020-02-29,United States
+6253,Rebecca Cole,,Other,HR,,,IND
+8230,Diane Haas,,Other,Admin,,,UK
+4342,James Gutierrez,60.0,Male,HR,,,United Kingdom
+7088,Melissa Bowman,,Male,Sales,,2025-03-17,United States
+5805,John Morales,53.0,Other,,,2018-03-25,UK
+2491,Jeffrey Roberts,,female,Admin,90217.28,,U.S.
+4038,Mr. Roger Hardin,,Male,Marketing,,,United Kingdom
+2779,Thomas Shannon,21.0,female,Admin,,,IND
+5537,Tracy Bowen,56.0,F,,65153.4,,IND
+2837,Joshua Torres,37.0,female,Marketing,,2022-04-13,UK
+3521,Laurie Barton,46.0,female,Marketing,39892.77,2021-12-24,U.S.
+8309,Jeff Benjamin,,M,Sales,,2020-04-29,USA
+7533,Michael Branch,,M,HR,,2021-03-11,United States
+4037,Alexander Morgan,52.0,M,Finance,,,India
+7909,Steven Wiley,32.0,Male,,108245.18,2024-03-01,
+8073,Cassandra Munoz,48.0,,Marketing,,2019-08-12,United States
+3862,William Smith,,F,Marketing,82138.47,,UK
+5062,Susan Shelton,,,,62429.4,2025-07-23,India
+8429,Cassie Sanders,,,Sales,68379.37,,IND
+6576,Joseph Moore,,M,HR,81497.87,2016-03-17,
+9574,Steven Guerrero,,,HR,97423.68,2023-12-12,U.S.
+3335,Nicholas Gross,,,,,2019-10-16,United Kingdom
+6822,James Willis,,female,Admin,70773.52,2019-01-30,India
+8576,Peter Jones,,,Admin,,2020-05-14,
+2417,Michelle Carter,,,,,2018-04-28,U.S.
+8918,Jordan Parker,,F,Marketing,101562.75,,
+4336,Jamie Jones,,Male,Engineering,102012.73,,U.S.
+5828,Robert Davis,42.0,,Sales,35623.62,,
+1030,Eric Smith,,M,Admin,85844.53,,
+8357,Brittney Wheeler,40.0,Other,Marketing,108922.15,,UK
+8569,Matthew Richards,,,Finance,105084.44,,USA
+1127,Patrick Taylor,53.0,F,Engineering,,,India
+4583,Michael Lawson,22.0,M,Sales,104516.53,2022-05-08,U.S.
+5891,Christina Garcia,,,HR,39747.05,,United States
+2875,Mr. John Heath,43.0,female,Sales,107657.46,,UK
+5934,Dr. Carol Garcia,24.0,,HR,,2018-01-24,United Kingdom
+9932,Monica Henderson,,Other,HR,66012.41,,
+3559,Mark Mullen,,M,,,,United Kingdom
+7950,Kristen Davis,,F,HR,106585.29,,United Kingdom
+8723,Jamie Watson,45.0,Male,Marketing,,,USA
+2516,Kristina Armstrong,,,HR,35972.27,2019-01-22,UK
+9153,Eric Knight,46.0,M,Marketing,108638.42,2020-08-29,U.S.
+4807,Larry Horn,58.0,Other,Marketing,,2023-11-11,U.S.
+9908,Nancy Dunlap,,Other,HR,67832.76,2022-02-03,IND
+7640,Alisha Smith,52.0,,HR,,,U.S.
+5588,Michael Clark,30.0,F,HR,,2021-07-09,U.S.
+2979,Charlotte Poole,,Other,Finance,96742.99,2017-02-08,
+5424,Mary Hill,22.0,M,HR,,2023-05-18,United States
+1664,Charles Williams,,female,Engineering,,2021-10-11,UK
+1004,Heather Burgess,,Other,,,,India
+5203,Mark Shaw,57.0,female,Finance,59888.02,,United Kingdom
+7527,Mark Flores DDS,25.0,M,,,,UK
+9619,Melissa Gomez,36.0,Other,Engineering,107468.01,,U.S.
+7491,Brian Hill,,,Sales,,,
+8284,Jasmine Kelly,,F,Admin,,,United States
+2671,Crystal Johnson,,Other,HR,,2018-11-01,United Kingdom
+6797,Kimberly Osborne,,M,Finance,,2020-11-12,United Kingdom
+5643,Dennis Garner,55.0,M,Engineering,118546.44,,IND
+4211,Bobby Rogers,22.0,F,HR,,,UK
+2396,Raymond Adams,52.0,female,Admin,56935.44,,
+1580,Vanessa Fuentes,40.0,M,Finance,51825.22,,UK
+2154,Cassidy Wood,,female,Engineering,,2022-12-28,United Kingdom
+5300,Kelly Wilson,59.0,F,,101429.42,2019-01-01,
+6007,Seth Bishop Jr.,49.0,F,HR,,2024-01-06,United States
+9743,Michael Williams,41.0,female,HR,65321.32,2019-01-25,U.S.
+6568,Robert Moore,50.0,F,Admin,,,
+2936,Jared Aguilar,54.0,Other,HR,69600.12,2025-01-30,
+9686,Suzanne Johnson,,Other,Finance,118640.81,2022-06-26,
+5080,Shannon Lopez,20.0,female,,,,U.S.
+3679,Mary Watkins,,M,Admin,,,India
+2115,Tracey Reed,,F,HR,65373.31,2018-04-30,U.S.
+7796,Ricky Barnes,,Other,Engineering,84348.85,,United States
+5746,Sean Perez,,female,,,2015-08-31,UK
+5632,Shannon Trujillo,,Other,HR,,2024-07-08,U.S.
+9516,Stacy Winters,60.0,,Sales,,2023-04-30,U.S.
+3202,Kyle Estrada,,F,Sales,89507.17,,
+4445,Lisa Snyder,21.0,female,HR,111655.44,,India
+9706,Candice Shelton,28.0,F,HR,43588.42,2021-01-12,India
+7730,Jeremy Yu,41.0,F,Sales,,2018-08-21,United Kingdom
+9905,Nicole King,,female,Admin,,,
+7609,Brooke Carroll,,Other,,,,U.S.
+5564,William Lopez,44.0,F,Sales,52208.98,,USA
+5788,Danielle Sanders DDS,58.0,Other,Finance,54246.07,,IND
+8247,Erica Chandler,42.0,,Admin,52178.83,,IND
+7091,Bryan Jacobs III,46.0,,Engineering,110549.66,,United States
+3257,Jaime Palmer,,Other,Finance,,,USA
+3573,Mr. Travis Harris III,,Male,HR,95548.45,2016-06-16,
+3020,Jennifer Johnson,,M,Engineering,64291.35,2018-04-09,IND
+2974,Justin Crane,46.0,M,,33463.09,,United Kingdom
+7249,Robert Johnson,,F,Marketing,,2020-07-20,USA
+7573,Jean Ferguson,36.0,,Admin,,,IND
+8666,Kelly Peters,44.0,F,,,2020-08-06,
+3286,Stephanie Lane,42.0,Other,Sales,94838.19,2023-01-01,USA
+5898,Nicole Lawson,27.0,female,Finance,,2015-08-16,
+6800,Jeffrey Robinson,42.0,Other,Engineering,,2023-12-23,
+8744,Larry Fuller,,F,HR,116292.75,,UK
+4571,Mrs. Sarah Dalton,59.0,,Admin,105142.85,,
+9009,Mrs. Tina King,,Male,Finance,107426.73,2020-07-17,United Kingdom
+9217,Joseph Mcbride,,Other,HR,,,IND
+9072,Andrew Nielsen,50.0,M,Admin,58954.41,,USA
+1986,Robert Santos,,F,Finance,96374.79,2021-10-29,United States
+8274,Elizabeth Anderson,36.0,female,Engineering,,,United States
+5918,Austin Morgan,53.0,M,HR,110709.56,2016-10-11,India
+3339,John Miller,,female,Admin,39669.59,2020-10-31,India
+9118,Brenda Owens,42.0,Other,,,,India
+1858,David Turner,50.0,F,Sales,69146.51,,IND
+4534,Sierra Durham,,female,Marketing,33345.7,,UK
+1418,Brian Garcia,22.0,M,Finance,,2021-07-28,U.S.
+8725,Elizabeth Parker,,female,Marketing,97451.16,2023-02-12,United Kingdom
+7405,Catherine Smith,30.0,,Finance,57064.7,2018-01-19,India
+1165,Jennifer Chen,30.0,Male,Admin,34919.33,,India
+9631,Scott Acevedo,30.0,Male,Finance,,,United States
+2088,Johnathan Bennett,,F,Finance,,2016-09-06,USA
+2333,Daniel Coleman,,F,Sales,,2019-12-18,UK
+7473,Debra Pacheco,,Other,Marketing,,2025-03-17,USA
+1105,Jack Marsh,22.0,F,Engineering,119476.16,,U.S.
+6919,David Murray,,Other,Finance,,2025-07-29,IND
+1674,Gerald Robinson,41.0,M,Admin,78304.5,2017-11-22,United Kingdom
+2903,Joshua Munoz,,Male,HR,118851.55,2024-07-12,
+1061,Carrie Guerrero,34.0,female,Engineering,60416.3,2020-06-15,USA
+5429,Timothy Bates,,Other,Finance,,2016-12-19,U.S.
+5792,Mrs. Erica Murphy MD,43.0,female,Sales,,2018-08-09,UK
+4714,April Barrett,44.0,,,75687.63,2015-08-30,United States
+3304,Cody Abbott,30.0,M,,76774.54,2025-02-03,IND
+5717,Tyler Miller,44.0,M,Marketing,,2025-07-13,U.S.
+4132,Debbie Thornton,29.0,female,Admin,89515.08,2024-09-27,United Kingdom
+2727,Patrick Myers,,,Marketing,,2023-05-06,United Kingdom
+8110,Mr. Charles Morse,52.0,,Marketing,71350.63,2025-01-13,
+8551,Bryan Powell,22.0,,Finance,,2023-10-21,
+7293,Diana Ray,27.0,,Marketing,105257.67,2020-04-25,UK
+3756,Samuel Yoder,,M,HR,64369.18,,U.S.
+6418,Jennifer Jackson,,Male,HR,66757.47,,India
+8131,Derek Morgan,,Male,HR,,,UK
+3425,Robert Green,35.0,Male,Engineering,55442.03,2021-07-30,UK
+8328,Sydney Bryan,43.0,female,Marketing,,,U.S.
+3416,Mark Montoya,,F,Admin,,2023-01-10,United Kingdom
+9587,Megan Bryant,24.0,female,Admin,112251.74,,United Kingdom
+6178,Sandy Rivera,,Other,Admin,80425.03,,UK
+3117,Richard Turner,,,Engineering,,2016-05-18,UK
+4422,Brenda Thompson,47.0,Other,Admin,,,United Kingdom
+4060,David Martinez,,M,Engineering,42280.35,2022-10-15,U.S.
+8276,Jessica Ward,,female,Engineering,,2017-02-23,
+6720,Frank Gonzalez,,Other,HR,,2016-05-19,United States
+7371,Emily Crawford,45.0,M,,,,IND
+8000,William Gates,,M,Sales,,,United Kingdom
+9060,Victoria Humphrey,,female,Admin,64567.11,2019-02-28,India
+7382,Alicia Cohen,54.0,F,Sales,,2017-07-31,USA
+4607,Denise Mason,,,Admin,,2020-02-20,
+4214,Ashley Gonzales,,Male,Engineering,56493.8,,India
+8197,Jesse Mcgrath,,,Marketing,68538.45,,IND
+4346,Kristine Mclaughlin,45.0,Male,Marketing,92350.26,,USA
+1815,Jason Franklin,54.0,,,63032.35,2016-05-23,USA
+7362,Zachary Braun,,Male,Engineering,,,IND
+1545,Nathan Kirk,,Other,,,,USA
+4834,Karen Taylor,,Male,HR,80886.49,2019-11-13,USA
+6957,Samuel Phelps,,,Engineering,59481.72,2018-01-24,India
+1933,Ashley Morris,,Other,Admin,,2023-01-13,UK
+3840,Cory Brown,30.0,Other,Marketing,55061.66,2018-04-15,UK
+4818,David Thompson,,female,,75368.65,,UK
+5874,Tina Downs,46.0,,Admin,81119.51,2019-08-28,United States
+2419,Lisa Rollins,,Other,Marketing,100342.79,,IND
+9390,Christine Cortez,52.0,Male,Engineering,48480.45,,USA
+5660,Courtney Smith,,Other,Admin,,2015-11-23,U.S.
+6784,Adam Hernandez,,F,HR,50837.72,2016-08-19,USA
+7740,Kent Anderson,50.0,Male,Finance,,2023-03-25,United States
+8508,Rachel Christensen,,Male,,65761.71,2023-11-25,UK
+1883,Paula Chavez,,Male,Sales,,,United States
+9456,Katherine Lamb,,,Engineering,,2018-03-02,IND
+8055,Elizabeth Moody,60.0,female,Admin,89023.42,2016-10-23,U.S.
+8448,Michael Spears,,Male,Marketing,,,UK
+9031,Nicole Mcfarland MD,,Other,Marketing,,2016-05-27,India
+5173,Michelle Mullins,,M,Engineering,,2016-07-18,USA
+8793,Patrick Carey,,,Admin,62737.72,,United Kingdom
+4529,Melanie Calhoun,28.0,F,HR,,2022-06-03,UK
+6524,Connor Haney,,Other,Finance,89301.15,,United Kingdom
+5356,Tammy Miller,30.0,Other,Admin,57923.55,,United Kingdom
+1691,Kathryn Hunter,,Other,Admin,99483.25,,United Kingdom
+1717,Cathy Washington,49.0,F,Engineering,,2020-01-13,
+1861,Mr. Warren Wilson,,female,Marketing,,,United States
+3668,Kelli Warner,54.0,female,,,2025-01-15,USA
+6731,Rachel Sharp DVM,30.0,F,Sales,76729.33,,
+1063,Bridget Clark,33.0,F,,43889.66,,IND
+1116,Brett Bennett,34.0,Other,HR,77237.26,,United States
+3300,Kenneth Boyd,53.0,F,Marketing,,,UK
+2043,Pamela Hudson,,F,,115825.93,,United States
+8008,Anna Barnes,,F,Sales,,,
+4639,Nicole Lopez DDS,41.0,F,Finance,70984.14,2024-09-04,UK
+7496,Michael Hill,,female,Marketing,,2019-03-09,United Kingdom
+4620,Caroline Benitez,,M,HR,,,United Kingdom
+8433,Brett Davis,,female,Admin,,2024-05-06,United States
+4159,Colin Graham,54.0,F,Marketing,,2020-09-03,USA
+6562,Gary Simmons,,,Engineering,113655.14,2024-06-30,U.S.
+2676,Austin Franklin,,Other,Sales,,2019-10-22,United Kingdom
+2402,James Klein,,female,HR,,,United Kingdom
+6226,Christopher Davis,,F,,,2018-09-28,UK
+6290,Jimmy Conner,,Male,Sales,114260.26,2021-08-09,USA
+9780,Caitlin Thomas,26.0,F,Finance,88678.67,2016-09-25,USA
+8466,Latoya Frazier,29.0,,Marketing,,2017-04-23,U.S.
+6327,Sergio Jones,57.0,M,,,,UK
+5186,William Mcdonald,33.0,F,,,,U.S.
+1472,Scott Lamb,37.0,F,Engineering,109966.52,,
+9552,Brian Roman,44.0,Other,Marketing,53139.66,,IND
+1726,Edward Moore,22.0,Male,HR,,,
+4115,Adriana Nguyen,,female,Admin,89026.23,,UK
+7040,Robert Evans,,Other,Marketing,,2018-03-11,IND
+2312,Kenneth Cain,,,Admin,,2017-06-22,United States
+4433,Sean Hunt,,M,HR,55004.91,2021-11-30,UK
+9593,Robert Ferguson,51.0,,Marketing,,2022-05-13,U.S.
+6664,Susan Underwood,30.0,F,Admin,,,
+4076,Michael Hoffman,52.0,,Sales,34294.94,2018-10-04,USA
+4303,Mrs. Angela Allen,21.0,female,HR,,,
+5116,William Robbins,,Male,,99339.39,2022-07-16,United Kingdom
+5936,Terri Johnson,58.0,,Admin,,2025-02-05,IND
+6115,Erin Kelly,,,Marketing,72282.12,,UK
+9468,Terry Brady,36.0,Other,Engineering,40534.79,,India
+7302,Emily Griffin,57.0,,Admin,45644.46,,USA
+5172,Courtney Sherman,44.0,female,,,2025-05-01,UK
+8898,Alexis Weiss,48.0,Other,,,2020-12-14,India
+6635,Wendy Marsh,44.0,,,98584.6,,United States
+4931,Cindy Arellano,,F,Admin,110273.43,2015-11-17,India
+1729,Robert Thompson,41.0,Male,Engineering,51522.58,2016-07-12,United Kingdom
+6010,Christina Cordova,,F,Marketing,111673.79,2016-02-25,IND
+2185,Noah Moore,,F,Marketing,,,U.S.
+1150,Michelle Dean,59.0,,,73970.64,2019-07-24,USA
+9115,Jared Estrada,,Other,Finance,88139.16,2021-02-28,United Kingdom
+8179,Angela Lopez,,,Admin,108731.77,2017-06-30,UK
+1777,Blake Rhodes,,Male,HR,110735.95,2017-02-21,
+7752,Austin Nguyen,31.0,M,Engineering,,2020-06-07,U.S.
+8545,Justin Franklin,,F,Sales,,2019-12-10,United Kingdom
+8210,Christopher Kemp,,F,Engineering,,2023-07-12,IND
+2935,Leah Williams,58.0,M,,53512.53,2016-07-27,India
+2334,Paula Lewis,49.0,Other,Finance,80008.81,,IND
+4950,Benjamin Banks,,Male,Finance,,,UK
+2617,Carolyn Fischer,,Other,Finance,86602.56,2019-07-26,UK
+3519,Earl Yang,55.0,female,HR,106222.7,,United Kingdom
+7783,Brittany Singleton,,F,Sales,,2020-03-14,United Kingdom
+4497,April Benitez,34.0,,Marketing,77127.42,2017-06-21,United States
+8219,Eric Payne,38.0,F,,46678.21,2017-11-19,United Kingdom
+2263,Eric Berry,43.0,M,Admin,,2024-11-06,India
+7994,Gary Ramirez,28.0,female,Admin,,2017-08-06,USA
+7463,Samantha Evans,28.0,,HR,77688.97,2021-11-20,India
+1644,Andrew Smith,20.0,M,Marketing,,,
+3955,Susan Morales,,F,HR,40845.37,,UK
+5091,Robert Hudson,,,HR,,,India
+9028,Aaron Vaughn,,,,114678.55,2016-07-04,India
+4605,Austin Frank,41.0,,Finance,,,
+3098,Rebecca Anderson,20.0,female,Engineering,51234.66,,
+5571,Christopher Robinson,,,Marketing,34976.01,2020-07-18,India
+6768,Amanda Williams,,,Engineering,,2021-10-02,United States
+6236,Douglas Kirby,34.0,F,Sales,40085.28,2020-05-07,U.S.
+8124,Fernando Fisher,,Male,Engineering,,2015-09-17,U.S.
+2757,Jose Kelly,,female,Finance,35185.57,,IND
+5677,Andrew Vasquez,25.0,M,Finance,,2023-11-30,UK
+9864,Amber Clayton,,female,,54401.86,2021-04-18,U.S.
+4296,Nicholas Bradley,,female,Engineering,110394.09,2019-05-05,USA
+5860,Curtis Carter,44.0,Other,HR,,,United Kingdom
+8238,Nicholas Bauer,,Other,Admin,112586.66,2016-11-16,U.S.
+9421,Nathan Hill,,female,Finance,,2022-10-21,United Kingdom
+8570,Rebecca Rodriguez,,F,,,,
+9784,Rebecca Hardin,44.0,female,,55183.2,,USA
+5276,James Walker,,Other,Engineering,,,IND
+5465,Betty Welch,,M,Sales,49845.26,,
+4797,Melissa Cox,,Male,Finance,68175.51,2018-08-01,UK
+1271,Luis Perez,,F,Admin,44558.79,,IND
+2945,Katelyn Armstrong,,M,Sales,105608.6,,United Kingdom
+2620,Brian Hobbs,,Male,Finance,,,United Kingdom
+3827,Francis Anderson,38.0,Other,Finance,,,United States
+7793,Whitney Montgomery,,,Marketing,49370.7,,United Kingdom
+5075,Jason Smith,,Male,,116656.22,2022-01-13,
+4572,Brenda Robertson,,Other,Marketing,112223.93,,IND
+5662,Mary Nelson,35.0,F,Marketing,,2021-09-01,India
+9774,Timothy Brown,,,HR,60727.01,,USA
+9442,Derek Rogers,34.0,M,,,,United Kingdom
+8016,Ryan Vasquez,,F,,97695.35,2025-03-13,IND
+2995,Amy Baker,,M,HR,,2019-01-08,
+5464,Dustin Rangel,56.0,female,Sales,63655.77,,
+2937,William Gonzalez,,,Marketing,,2024-03-08,United Kingdom
+6880,Barbara Riggs,51.0,Other,Engineering,,2017-04-27,UK
+4761,Tracy Reed,40.0,F,Sales,,2023-02-13,UK
+9956,Shawn Caldwell,,F,,93945.66,2018-12-07,U.S.
+5623,Melinda King,,,Engineering,101282.77,,UK
+4630,Kayla Doyle,,Male,Admin,101994.29,,IND
+2061,Ashley Cantrell,23.0,female,Admin,46488.77,2021-05-25,
+9489,Heather Hernandez,46.0,M,Admin,,2016-01-03,U.S.
+6038,Nicholas Yates,36.0,female,,88551.85,,India
+6362,Carrie Lam,40.0,M,Admin,100775.89,,IND
+4827,Thomas Nielsen,27.0,Other,,62838.03,2020-12-16,United States
+7114,Cynthia Woods,43.0,Male,Admin,,2022-03-17,
+8868,Jeffery Galvan,34.0,female,Admin,,,U.S.
+5699,Whitney Conner,,M,Admin,,,IND
+3807,Robert Bell,54.0,,Sales,,,United States
+3249,Timothy Murray,28.0,,,,,U.S.
+1253,Emma Lynch,58.0,M,Finance,,,UK
+9271,Mr. Jason Marsh,,Other,HR,58546.13,,
+6372,Christopher Hines,32.0,F,Admin,113783.67,,USA
+7012,Crystal Garrett,,,,,2025-02-07,U.S.
+1414,Mark Silva,24.0,,Engineering,89850.81,2020-05-22,United Kingdom
+3127,Joshua Johnson,34.0,Other,Finance,,2018-10-23,India
+7481,William Gutierrez,,Other,Admin,62655.72,2019-02-13,IND
+3543,Stephen Sanchez,50.0,F,Sales,,2016-10-01,USA
+3896,Ashley Wilson,47.0,,Sales,108556.31,2021-12-30,UK
+9363,Elizabeth Washington,44.0,Male,,,,USA
+2252,Richard Velazquez,,female,Sales,35902.95,,UK
+3221,Chelsea Peterson,,Other,Engineering,48429.39,,UK
+4383,Sharon Cook,,M,Engineering,62047.95,,United States
+9138,Ernest Snow,49.0,Other,Admin,,2021-04-28,India
+4855,Patrick Hoffman,58.0,Other,Sales,106524.06,,United States
+3164,Nancy Woods,36.0,M,Sales,60515.07,2016-08-29,United Kingdom
+4828,Tammy Snyder,,F,Sales,,,USA
+7301,Luis Clark,21.0,M,,,,United Kingdom
+6791,Jennifer Hunt,59.0,F,Admin,112834.47,,IND
+3171,William Strong,44.0,M,Admin,,,India
+2769,Richard Haynes,,Male,Admin,,,U.S.
+1426,Ronald Lloyd,,Male,Admin,31210.25,2018-05-19,United States
+9625,Brent Michael,52.0,Other,Engineering,,2021-09-03,UK
+6875,Phillip King,55.0,M,Marketing,93661.94,,India
+9015,Nicholas Little,50.0,Male,HR,77376.73,2022-08-27,India
+8464,Monica Rowland,,Other,Admin,112884.41,,United Kingdom
+6057,Michelle Harris,50.0,,Engineering,,,U.S.
+1207,Mark Ryan,,M,Finance,,2020-07-04,United Kingdom
+3671,Larry Gardner,,,HR,81530.17,2021-01-26,USA
+9105,Emily Hamilton,,,Marketing,108261.87,,IND
+8879,Calvin Douglas,,F,Admin,81581.68,,IND
+9946,Tracey Molina,,Male,Engineering,,,United States
+6143,Zachary Miller,,F,HR,,,USA
+2290,Jeffrey Newman,,F,Engineering,47196.47,2023-06-26,
+5246,Donna Brown,,F,Marketing,,,IND
+3251,Todd Lewis,,Male,Engineering,,2022-07-20,IND
+6184,Jodi Moore,48.0,Other,Sales,,,UK
+5779,Kenneth Frazier,47.0,M,Marketing,60421.46,2021-08-01,USA
+7292,Jacob Brown,,M,Finance,98420.26,2020-12-25,United Kingdom
+1969,Darrell Scott,50.0,Male,Admin,,,USA
+4418,Jade Pena,,Other,Sales,54059.62,2016-02-06,USA
+1627,Matthew Hale,,F,Marketing,98682.17,,India
+6163,Miss Samantha Rowe,51.0,Other,Finance,,,USA
+5089,Patrick Mccarty,53.0,F,Admin,64403.33,,U.S.
+6622,Brian Burke,,F,Sales,84553.28,,United States
+8228,Ryan Lara,53.0,M,Sales,78144.26,,India
+4701,Matthew Foster,23.0,Male,Sales,,2020-07-07,United Kingdom
+5261,Pamela Warren,41.0,F,HR,109016.94,,United Kingdom
+6638,Emma Boyd,41.0,Male,Marketing,100688.89,2016-05-30,UK
+3659,Elijah Carter,,Other,Finance,69323.77,2017-03-09,United States
+5995,Joseph Williams,,F,Marketing,,2023-01-15,United States
+1278,Danielle Long,51.0,Other,Marketing,64519.81,,India
+6838,Elizabeth Martinez,,F,Marketing,,2019-07-06,UK
+9839,Michael Scott,,Other,Admin,103886.92,,United States
+1953,Debra Griffin,53.0,Other,Marketing,,,U.S.
+3477,Rose Morris,40.0,Other,Sales,,2023-09-08,U.S.
+6790,Jeffrey Peterson,,,Finance,,,India
+1360,Brian Sanford,,Other,Finance,,,
+9046,Sandra Garcia,56.0,M,HR,,,United States
+2004,Michael Smith,,Other,Sales,,,United Kingdom
+1402,Alicia Goodman,22.0,M,Admin,90442.15,2019-02-10,India
+4956,Maxwell Smith,,,Finance,,,UK
+1736,Denise Kent,55.0,female,Finance,63026.27,,IND
+4699,Thomas Gonzalez,20.0,,Engineering,,2021-11-28,United Kingdom
+6352,Lindsey Velez,23.0,M,Sales,,,
+2090,Adrian Trevino,,,Marketing,,,United States
+2022,Teresa Schroeder,59.0,,Admin,,,USA
+6651,Michael Hernandez,,Other,Admin,58641.33,,United Kingdom
+7924,Robert Ramirez,,Male,,,2021-05-10,United States
+3225,Theresa Miranda,,female,Sales,,,UK
+4547,Kristen Gibson,32.0,female,Admin,113853.65,,IND
+8355,Brandon Noble,,F,HR,,2018-05-23,USA
+8130,Kristen Rowe MD,,,HR,,2022-07-30,USA
+3327,Heather Reyes,,,Sales,110968.54,2016-12-02,UK
+6111,Wesley Ware,49.0,Male,Finance,,,U.S.
+3898,Jonathan Flores,29.0,F,HR,30627.99,,United States
+6387,Manuel Flores,27.0,M,,73730.34,2018-01-22,India
+7695,Mrs. Alicia Cole,,F,Marketing,,,UK
+7269,Heather Gilbert,54.0,Other,Admin,95218.46,2023-09-07,USA
+1157,Katherine Griffin,43.0,,,76337.6,,UK
+7705,Vincent Wilson,,F,HR,,2020-12-07,India
+5321,Jamie Conner,33.0,Male,HR,57448.16,2015-10-26,India
+9744,Linda Johnson,,F,Sales,,2021-12-18,UK
+9705,Adam Coffey,54.0,F,Admin,,,United States
+8580,Christopher Garcia,60.0,M,,,,United States
+1687,Jennifer Brown,,M,Sales,106600.31,2023-07-05,USA
+3008,Anthony Scott,,Male,Finance,83518.45,,United States
+7699,Patricia Carpenter,54.0,Other,Marketing,,2015-09-16,UK
+7394,Felicia Silva,,female,Finance,,,
+3806,David Singh,20.0,,Sales,,2024-07-17,United Kingdom
+1050,Joseph Smith,,female,Finance,,,United Kingdom
+9201,Emma Warren,39.0,M,Sales,60868.23,2017-06-10,
+3264,Michelle Wilson,21.0,female,Finance,,2022-01-12,UK
+9420,Robert Ryan,59.0,,Admin,,,UK
+3427,Robert Allen,,,Admin,111280.41,2022-07-24,USA
+2304,Johnny White III,,,Admin,,2017-10-03,U.S.
+6407,Troy Phillips,36.0,,Sales,,,
+4889,Gloria Hill,,female,Finance,,,United States
+3888,Anthony Ware,37.0,,Engineering,,,UK
+5043,Ariel Barajas,,Male,,,,U.S.
+3766,Stephanie Martin,,Other,Finance,,,United Kingdom
+3757,Joseph Martin,,Male,,,,UK
+2285,Angela Hernandez,25.0,M,HR,78751.11,2015-09-07,USA
+7998,James Wood,,female,Finance,61890.33,2024-08-17,
+2698,Justin Smith,,Other,Marketing,,2016-02-16,United Kingdom
+8495,Alexandra Rowe,,Other,Engineering,,2025-05-04,U.S.
+3458,Brandon Andrews,,,Marketing,49840.41,,UK
+1656,Holly Ortiz,44.0,Male,Sales,117228.33,,
+5136,Tyler King,,F,HR,84455.61,2018-08-10,
+7168,Russell Lopez,58.0,F,Engineering,,,India
+1446,Rodney Bowers,29.0,M,HR,40619.57,2018-08-15,UK
+1595,Kevin Hansen,,F,Engineering,,,USA
+9132,Lisa Howard,35.0,Male,,34593.61,,India
+2468,Jeremy Foster,,M,Finance,75755.1,2015-10-11,United States
+6871,Evan Green,,female,Sales,,,India
+5796,Gabriella Townsend,,F,Admin,,,United States
+3470,James Booth,,Other,Engineering,85212.41,,U.S.
+8505,Charles Rasmussen,59.0,,Sales,56435.55,,United Kingdom
+4869,Kevin Riddle,54.0,female,Marketing,113288.19,2023-11-01,
+9313,Robert Warner,41.0,,,114739.02,,India
+6829,Holly Johnson,,,Sales,,2020-02-24,IND
+3658,Thomas Stokes,,F,,103592.38,2023-04-25,United States
+7630,Anthony Price,41.0,Male,Admin,,,USA
+6531,Christina Smith,42.0,Other,Engineering,,,
+5421,Crystal Mendez,,female,Sales,47427.09,,USA
+9066,Dr. Kyle Mcgrath,,female,,104597.56,,USA
+7292,Jacob Brown,,M,Finance,98420.26,2020-12-25,United Kingdom
+9674,Jennifer Hall,,F,Sales,106015.71,,India
+8110,Mr. Charles Morse,52.0,,Marketing,71350.63,2025-01-13,
+7730,Jeremy Yu,41.0,F,Sales,,2018-08-21,United Kingdom
+3668,Kelli Warner,54.0,female,,,2025-01-15,USA
+9322,Madison Russell MD,27.0,,HR,43607.43,,
+8179,Angela Lopez,,,Admin,108731.77,2017-06-30,UK
+7371,Emily Crawford,45.0,M,,,,IND
+7979,Anita Callahan,23.0,,HR,113648.44,2021-11-16,India
+5258,Christopher Burton,,female,Sales,,2019-03-08,United States
